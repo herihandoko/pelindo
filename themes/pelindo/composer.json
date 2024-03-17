@@ -1,0 +1,8 @@
+{
+    "name": "herihand2402/herihand2402-theme",
+    "type": "october-theme",
+    "description": "Thema untuk pelindo",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
